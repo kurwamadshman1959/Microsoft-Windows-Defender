@@ -217,4 +217,4 @@ Microsoft Defender is the full free version with all features and updates includ
 Download Microsoft Defender today and protect your Windows computer effortlessly!
 
 ---
-**Last updated:** 2026-11-10 18:25:55 UTC
+**Last updated:** 2026-11-10 23:52:13 UTC
